@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-08T13:42:00.305Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="TrTzitYBU5o8GUo1XfjX" version="24.5.4" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2024-07-08T13:43:17.663Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="M_R_bgvKbNWDTccNO3X-" version="24.5.4" type="github" pages="5">
   <diagram name="EvenBridgeDiagram01" id="jKEPTYBmPG9Pn0rynJA9">
     <mxGraphModel dx="757" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -193,7 +193,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="XsGVotyAZjhcl0boUtPV" name="apiGatewayDiagram01">
-    <mxGraphModel dx="717" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
